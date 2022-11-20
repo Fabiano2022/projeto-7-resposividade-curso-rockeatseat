@@ -36,7 +36,7 @@ Na aula demos início ao nosso novo projeto aplicando a responsividade. Isso faz
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/HDD3FCMwo8YPuDA1Yv970j/Stage-03---Formul%C3%A1rio-intermedi%C3%A1rio-(Copy)?node-id=3%3A4&t=BDV02V4dokFFbwZB-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/6JlsCLWQG4VhGjuhkjZSFo/Explorer-Stage-03-Projeto-02-(Copy)?node-id=203%3A412&t=VfaUKDnqxP6xF4sN-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
