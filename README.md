@@ -26,7 +26,7 @@ Projeto feito na aula 8 do STAGE 3 no curso Rocketseat - Ensino de tecnologias W
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- Git e Github
+- GistGithub e Github
 - Figma
 
 
